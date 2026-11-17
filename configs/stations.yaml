@@ -1,0 +1,6 @@
+reference: REF-001
+candidates:
+  - CS-118
+  - CS-204
+  - CS-311
+max_gap_hours: 2
